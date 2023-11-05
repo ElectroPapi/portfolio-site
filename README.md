@@ -12,7 +12,7 @@ Stories:
 ```
 As A Small Business Owner
 I WANT TO request a quote and professional consultation for my project
-SO THAT I can hire help to develop my business idea to improve my market presense
+SO THAT I can hire help to develop my business idea to improve my market presence
 
 As A Recruiter
 I WANT TO determine the prospective developers experience and skills
